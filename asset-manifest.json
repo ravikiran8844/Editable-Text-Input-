@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Editable-Text-Input-/static/css/main.ffb53ab6.chunk.css",
+    "main.js": "/Editable-Text-Input-/static/js/main.234fc793.chunk.js",
+    "main.js.map": "/Editable-Text-Input-/static/js/main.234fc793.chunk.js.map",
+    "runtime-main.js": "/Editable-Text-Input-/static/js/runtime-main.fc48cdb0.js",
+    "runtime-main.js.map": "/Editable-Text-Input-/static/js/runtime-main.fc48cdb0.js.map",
+    "static/js/2.8b1b84c2.chunk.js": "/Editable-Text-Input-/static/js/2.8b1b84c2.chunk.js",
+    "static/js/2.8b1b84c2.chunk.js.map": "/Editable-Text-Input-/static/js/2.8b1b84c2.chunk.js.map",
+    "index.html": "/Editable-Text-Input-/index.html",
+    "static/css/main.ffb53ab6.chunk.css.map": "/Editable-Text-Input-/static/css/main.ffb53ab6.chunk.css.map",
+    "static/js/2.8b1b84c2.chunk.js.LICENSE.txt": "/Editable-Text-Input-/static/js/2.8b1b84c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc48cdb0.js",
+    "static/js/2.8b1b84c2.chunk.js",
+    "static/css/main.ffb53ab6.chunk.css",
+    "static/js/main.234fc793.chunk.js"
+  ]
+}
